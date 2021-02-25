@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383908787517",
+    "project_id": "weathertalks-cfd87",
+    "storage_bucket": "weathertalks-cfd87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383908787517:android:062f7c471f9734f7f4c154",
+        "android_client_info": {
+          "package_name": "com.company.weathertalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383908787517-9tccj6ssb9d05ppelua0t2l7f83r8e5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.weathertalks",
+            "certificate_hash": "81b50b046057b4fce39cf82fcd52e6a3ee668a7e"
+          }
+        },
+        {
+          "client_id": "383908787517-h085daojt8pg521ughjchd1e9eh8dia8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYaLGcDeAUKUODaADggqObWYVi7j_xfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383908787517-h085daojt8pg521ughjchd1e9eh8dia8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
